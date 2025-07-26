@@ -1,2 +1,2 @@
 # This my new Repo
-## This is new branch line
+## In this file, there is log details
